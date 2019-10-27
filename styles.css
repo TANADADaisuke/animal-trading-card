@@ -1,0 +1,31 @@
+/* add your CSS here */
+.outer {
+  border: 1px solid #d0d0d0;
+  width: 300px;
+  padding: 10px;
+  box-shadow: 5px 5px #f0f0f0;
+  font-family: serif;
+}
+
+.inner {
+  border: 1px solid #d0d0d0;
+  padding: 5pt;
+  font-size: 9pt;
+}
+
+h3 {
+  font-weight: bold;
+}
+
+.introduction {
+  font-style: italic;
+}
+
+ul {
+  list-style: none;
+  padding: 0px;
+}
+
+.properties {
+  font-weight: bold;
+}
